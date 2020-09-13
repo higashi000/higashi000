@@ -13,9 +13,6 @@
 - [sarahck.vim](https://github.com/higashi000/sarahck.vim)
   - use Slack on Vim
 
-- [letter-counter](https://github.com/higashi000/letter-counter)
-  - count your text character number.
-
 - [noa.nvim](https://github.com/higashi000/noa.nvim)
 - [noa](https://github.com/higashi000/noa)
   - noa and noa.nvim is edit source file plugin with other persons.
@@ -28,9 +25,13 @@
 - [oneprog-oneans](https://github.com/higashi000/oneprog-oneans)
 - [oneprog-oneans-front](https://github.com/higashi000/oneprog-oneans-front)
   - one program one answer web app.
+  
 - [vimrc-autogenerate](https://github.com/higashi000/vimrc-autogenerate)
 - [vimrc-autogenerate-front](https://github.com/higashi000/vimrc-autogenerate-front)
   - auto generate vimrc
+
+- [letter-counter](https://github.com/higashi000/letter-counter)
+  - count your text character number.
 
 ### Slack bot
 - [block-mitsubot](https://github.com/higashi000/block-mitsubot)
