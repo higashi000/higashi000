@@ -4,11 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higashi000)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=higashi000)](https://github.com/ryo-ma/github-profile-trophy)
 
+I love Vim and Golang.
 
-### Like
-- Vim
-- Golang
-
+## My Products
 ### Vim Plugin
 - [sarahck.vim](https://github.com/higashi000/sarahck.vim)
   - use Slack on Vim
