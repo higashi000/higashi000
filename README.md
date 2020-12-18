@@ -1,7 +1,10 @@
 ## higashi Profile
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=higashi000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higashi000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/higashi000/higashi000/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/higashi000/higashi000/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/higashi000/higashi000/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/higashi000/higashi000/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=higashi000)](https://github.com/ryo-ma/github-profile-trophy)
 
 I love Vim and Golang.
