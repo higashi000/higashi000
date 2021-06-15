@@ -7,7 +7,6 @@
 [![](https://raw.githubusercontent.com/higashi000/higashi000/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=higashi000)](https://github.com/ryo-ma/github-profile-trophy)
 
-I love Vim and Golang.
 
 
 <!--
